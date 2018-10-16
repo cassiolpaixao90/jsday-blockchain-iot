@@ -1,0 +1,15 @@
+{
+  "name": "service-layer",
+  "version": "1.0.0",
+  "description": "service-layer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Cássio Paixão <cassiop80@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.1.0"
+  }
+}
